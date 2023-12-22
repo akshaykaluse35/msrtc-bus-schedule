@@ -1,0 +1,6 @@
+1. Add some news and external web links in Home section.
+2. Add some Gallery photos in Gallery section.
+3. Add info to the busses at gallery section.
+4. Link to the buttons of the gallery sections.
+5. Give links of the social media sites of the developers.
+6. Change of Viraj Photo.
